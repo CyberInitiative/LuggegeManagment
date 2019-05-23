@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuggegeManagment", "LuggegeManagment\LuggegeManagment.csproj", "{D9D0656E-B6C0-452D-8569-9B3BBE1E5CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D0656E-B6C0-452D-8569-9B3BBE1E5CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D0656E-B6C0-452D-8569-9B3BBE1E5CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D0656E-B6C0-452D-8569-9B3BBE1E5CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D0656E-B6C0-452D-8569-9B3BBE1E5CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C80C24-CE3B-4B52-9629-46E0484AB519}
+	EndGlobalSection
+EndGlobal

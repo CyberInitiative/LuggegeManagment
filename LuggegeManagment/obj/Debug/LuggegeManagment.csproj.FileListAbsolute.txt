@@ -1,0 +1,11 @@
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\bin\Debug\LuggegeManagment.exe.config
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\bin\Debug\LuggegeManagment.exe
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\bin\Debug\LuggegeManagment.pdb
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.Form1.resources
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.Properties.Resources.resources
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.csproj.GenerateResource.cache
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.csproj.CoreCompileInputs.cache
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.exe
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.pdb
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.csprojAssemblyReference.cache
+C:\Users\Мирослав Левдиков\source\repos\LuggegeManagment\LuggegeManagment\obj\Debug\LuggegeManagment.SecuritySystem.resources

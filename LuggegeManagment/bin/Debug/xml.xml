@@ -1,0 +1,33 @@
+<NewDataSet>
+  <Table1>
+    <Column1>Ivanko</Column1>
+    <Column2>Petr</Column2>
+    <Column3>Petrovich</Column3>
+    <Column4>CK101</Column4>
+    <Column5>CH100433</Column5>
+    <Column6>1</Column6>
+    <Column7>10</Column7>
+    <Column8>Delete</Column8>
+  </Table1>
+  <Table1>
+    <Column1>Petrenko</Column1>
+    <Column2>Oleg</Column2>
+    <Column3>Ivanovich</Column3>
+    <Column4>SK1212</Column4>
+    <Column5>CK123412</Column5>
+    <Column6>1</Column6>
+    <Column7>12</Column7>
+    <Column8>Delete</Column8>
+  </Table1>
+  <Table1>
+    <Column1>Sidorov</Column1>
+    <Column2>Ivan</Column2>
+    <Column3>Ivanovich</Column3>
+    <Column4>JK302</Column4>
+    <Column5>SL12121</Column5>
+    <Column6>1</Column6>
+    <Column7>5</Column7>
+    <Column8>Delete</Column8>
+  </Table1>
+  <Table1 />
+</NewDataSet>

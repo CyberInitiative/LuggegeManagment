@@ -6,25 +6,15 @@ using System.Threading.Tasks;
 
 namespace LuggegeManagment
 {
-    class Passenger
+    public class Passenger
     {
-        public string surname;
-        public string name;
-        public string patronymic;
-        public string flightnumber;
-        public string laggagenumber;
-        public int amountofplaces;
-        public double sumweight;
+        public string surname { get; set; }       //Фамилия
+        public string name{ get; set; }           //Имя     
+        public string patronymic { get; set; }    //Отчество
+        public string flightnumber { get; set; }  //Номер рейса
+        public string laggagenumber { get; set; } //Номер багажной квитанции
+        public int amountofplaces { get; set; }   //Количество мест багажа
+        public double sumweight { get; set; }     //Суммарный вес багажа пассажира
 
-        public Passenger(string s, string n, string p, string f, string l, int a, double sum)
-        {
-            surname = s;
-            name = n;
-            patronymic = p;
-            flightnumber = f;
-            laggagenumber = l;
-            amountofplaces = a;
-            sumweight = sum;
-        }
     }
 }
